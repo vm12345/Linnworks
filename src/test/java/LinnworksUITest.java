@@ -6,7 +6,7 @@ import org.openqa.selenium.Keys;
 
 import static com.codeborne.selenide.Selenide.$x;
 
-public class LinnworksUITest implements IsEmptyInterface {
+public class LinnworksUITest {
     private static LinnworksUITest linnworksUITest;
 
     @BeforeClass
